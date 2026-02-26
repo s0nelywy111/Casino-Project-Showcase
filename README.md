@@ -28,3 +28,10 @@ The main goal of this project was to build a secure, scalable gambling platform 
 <img width="1862" height="890" alt="image" src="https://github.com/user-attachments/assets/a0016a65-71cd-4021-a162-6c266c4f0584" />
 
 > **Note:** The source code for this project is private due to intellectual property and security reasons. This repository serves as a technical showcase of the implemented features and deployment workflow.
+
+## Links
+The website is currently paused to optimize cloud resource costs.
+
+## Contacts
+TG: @Bwrbqrhrqjg
+E-mail: deop96751@gmail.com
