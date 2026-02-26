@@ -17,6 +17,14 @@ The main goal of this project was to build a secure, scalable gambling platform 
 * **Session Management:** Built a secure authentication system to manage user sessions across multiple games.
 * **Security:** Applied backend validation for all client-side inputs to prevent balance manipulation.
 
+## 👥 Team & Roles
+This was a collaborative university project where I served as the **Lead Backend & Infrastructure Developer**.
+
+**My specific contributions included:**
+* **Backend & Database:** Designed and implemented 100% of the server-side logic and database architecture.
+* **Frontend:** Developed over 60% of the UI, focusing on dynamic data rendering and user state management.
+* **DevOps & Cloud:** Solely responsible for the deployment strategy and managing Azure cloud resources.
+
 ## 📸 Screenshots
 ## Main Dashboard 
 <img width="1860" height="900" alt="image" src="https://github.com/user-attachments/assets/7b30b13b-d3a8-41b2-9d3f-d44a45ff9370" /> 
