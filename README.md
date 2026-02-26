@@ -19,7 +19,7 @@ The main goal of this project was to build a secure, scalable gambling platform 
 
 ## 📸 Screenshots
 ## Main Dashboard 
-(<img width="1860" height="900" alt="image" src="https://github.com/user-attachments/assets/7b30b13b-d3a8-41b2-9d3f-d44a45ff9370" /> 
+<img width="1860" height="900" alt="image" src="https://github.com/user-attachments/assets/7b30b13b-d3a8-41b2-9d3f-d44a45ff9370" /> 
 <img width="1860" height="893" alt="image" src="https://github.com/user-attachments/assets/1f1933bf-796a-417c-95c3-80e5040768a9" />
 ## Game Interface 
 <img width="1862" height="890" alt="image" src="https://github.com/user-attachments/assets/e3c1db10-5596-488e-81d1-4110dcc1d0d8" />
